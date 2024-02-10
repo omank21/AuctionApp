@@ -1,0 +1,54 @@
+.appname {
+    text-align :center;
+    background :#eb8;
+    color      :#40d;
+    font-family:helvetica;
+    font-size  :20pt;
+    padding    :4px;
+}
+
+.info {
+    background :lightgreen;
+    color      :blue;
+    border     :1px solid green;
+    padding    :5px 10px;
+    margin-left:10px;
+    margin-right:140px;
+}
+
+.subhead {
+    font-weight:bold;
+}
+
+.taken, .error {
+    color:red;
+}
+
+.available {
+    color:green;
+}
+
+.whisper {
+    font-style:italic;
+    color     :#006600;
+}
+
+#logo {
+    font-family:Georgia;
+    font-weight:bold;
+    font-style:italic;
+    font-size :97px;
+}
+
+nav {
+    background-color: rgb(0, 60, 255);
+}
+footer {
+    background-color: rgb(0, 60, 255);
+}
+.fonttype {
+    font-family: 'monospace', bold;
+}
+
+body{background: linear-gradient(to right, #1197f7, #6e079a)
+}
